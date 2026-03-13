@@ -1,2 +1,4 @@
 # camaleao-turma-ead-ads
-Static Page
+
+página estática camaleão no ar:
+https://mauriciokoop.github.io/camaleao-turma-ead-ads/
